@@ -3,5 +3,6 @@
 
 facial-landmarks-dlib-opencv-python(+Real_time)
 
-blink detecter & count(Real_time)
+eye-blink-detection-opencv-python-dlib 
++ (paper1) : real-time eye blink detection using facial landmarks
 
