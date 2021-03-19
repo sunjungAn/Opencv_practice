@@ -16,8 +16,8 @@ def eye_aspect_ratio(eye):
     ear = (A + B) / (2.0 * C)
     return ear
 
-EYE_AR_THRESH = 0.32 #need to tune
-EYE_AR_CONSEC_FRAMES = 3 #need to tune
+EYE_AR_THRESH = 0.3 #need to tune
+EYE_AR_CONSEC_FRAMES = 4 #need to tune
 
 COUNTER = 0
 TOTAL = 0
@@ -61,13 +61,13 @@ while True:
         cv2.drawContours(frame, [leftEyeHull], -1, (0,255, 0), 1)
         cv2.drawContours(frame, [rightEyeHull], -1,(0,255,0), 1)
         arr.append(ear)
-        if ear< EYE_AR_THRESH:
+        if ear < EYE_AR_THRESH:
             COUNTER += 1
 
         else:
             if COUNTER >= EYE_AR_CONSEC_FRAMES:
                 TOTAL += 1
-            CONTER = 0
+            COUNTER = 0
 
         cv2.putText(frame, "Blinks : {}".format(TOTAL), (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0,0,255), 2)
         cv2.putText(frame, "EAR: {:.2f}".format(ear), (300, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
