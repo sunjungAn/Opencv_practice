@@ -9,6 +9,5 @@ https://github.com/sunjungAn/Opencv_practice/blob/master/Facial%20landmarks%20wi
 
 (paper1) : real-time eye blink detection using facial landmarks
 
-<Modification required> threshold value, counting blink 
  
  
