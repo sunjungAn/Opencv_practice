@@ -1,13 +1,50 @@
-# Opencv_practice
-2021.03.01~ 
+---
+description: >-
+  Activity : I wrote the code, studied it, and wrote what I understood
+  (2021.03.22~ )  reference : pyimagesearch
+---
 
-### facial-landmarks-dlib-opencv-python(+Real_time)
+# Opencv, Computer Vision\_practice
 
+## A course of action
 
-### eye-blink-detection-opencv-python-dlib
-https://github.com/sunjungAn/Opencv_practice/blob/master/Facial%20landmarks%20with%20dlib%2C%20OpenCV%2C%20and%20Python/detect_blinks.py
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Target</th>
+      <th style="text-align:center">Process</th>
+      <th style="text-align:center">Github</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>real-time eye blink detection using</p>
+        <p>facial landmarks</p>
+      </td>
+      <td style="text-align:center"><a href="https://app.gitbook.com/@dkstjswjd83/s/sunjungan/~/drafts/-MWWoCqiDgNFdcEc6ilu/facial-landmarks-with-dlib-opencv-and-python">Click</a>
+      </td>
+      <td style="text-align:center"><a href="https://github.com/sunjungAn/Opencv_practice/tree/master/Facial%20landmarks%20with%20dlib%2C%20OpenCV%2C%20and%20Python">Click</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+  </tbody>
+</table>
 
-(paper1) : real-time eye blink detection using facial landmarks
+## facial-landmarks-dlib-opencv-python\(+Real\_time\)
 
- 
- 
+## eye-blink-detection-opencv-python-dlib
+
+[https://github.com/sunjungAn/Opencv\_practice/blob/master/Facial landmarks with dlib%2C OpenCV%2C and Python/detect\_blinks.py](https://github.com/sunjungAn/Opencv_practice/blob/master/Facial%20landmarks%20with%20dlib%2C%20OpenCV%2C%20and%20Python/detect_blinks.py)
+
+\(paper1\) : real-time eye blink detection using facial landmarks
+
