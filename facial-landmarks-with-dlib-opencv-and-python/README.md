@@ -10,6 +10,8 @@ description: >-
 
 Using a webcam, we will get real-time video. so, I will detect and count eye blink with real-time video. 
 
+
+
 ### Knowledge to be used
 
 1. We use a research result how changes in the ratio of the eyes when they blink. 
@@ -22,6 +24,8 @@ Using a webcam, we will get real-time video. so, I will detect and count eye bli
 
 1. what is dlib, imutils? \(+how to install\)
 2. Real\_time facial-landmarks-dlib-opencv-python
+3. introduce how to detect eye blink by "real-time eye blink detection using facial landmarks"
+4. eye-blink-detection-opencv-dlib
 
 
 
