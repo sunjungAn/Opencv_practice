@@ -1,4 +1,4 @@
-# what is dlib?
+# what is dlib, imutils? \(+ how to install\)
 
 **reference** : \([http://dlib.net/](http://dlib.net/)\)
 

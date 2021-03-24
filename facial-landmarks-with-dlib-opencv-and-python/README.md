@@ -12,19 +12,13 @@ Using a webcam, we will get real-time video. so, I will detect and count eye bli
 
 #### &lt;result&gt;
 
-![](../.gitbook/assets/img_0285.mov)
-
-
-
-
+![execution result gif. when i blink eyes, count up .](../.gitbook/assets/img_0359.gif)
 
 ### Knowledge to be used
 
 1. We use a research result how changes in the ratio of the eyes when they blink. 
 2. we need to use Opencv for detecting facial landmarks
 3. we need to install dlib, imutils, .... packages to activity
-
-
 
 ### The Order of study...
 
