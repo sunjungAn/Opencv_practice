@@ -10,6 +10,12 @@ description: >-
 
 Using a webcam, we will get real-time video. so, I will detect and count eye blink with real-time video. 
 
+#### &lt;result&gt;
+
+![](../.gitbook/assets/img_0285.mov)
+
+
+
 
 
 ### Knowledge to be used
