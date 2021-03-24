@@ -42,3 +42,17 @@ _ensures_
 
 * This function runs the shape predictor on the input image and returns a single full\_object\_detection.
 
+
+
+### Download dlib\(for window\)
+
+* blank
+
+
+
+## Imutils
+
+
+
+
+
