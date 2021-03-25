@@ -19,7 +19,11 @@ Using a webcam, we will get real-time video. so, I will detect and count eye bli
 1. We use a research result how changes in the ratio of the eyes when they blink. 
 2. we need to use Opencv for detecting facial landmarks
 3. we need to install dlib, imutils, .... packages to activity
-4. we use model "shape\_predictor\_68\_face\_landmarks.dat" 
+4. we use model "shape\_predictor\_68\_face\_landmarks.dat"
+
+> shape\__predictor\__68\_face\_landmarks.dat" : Get 68 Face Landmarks Data
+
+ 
 
 ### The Order of study...
 
