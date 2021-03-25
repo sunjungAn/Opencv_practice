@@ -8,6 +8,10 @@ description: 'Practice with using dlib, imutils package'
 
 Using a webcam, we will get real-time video. so, I will detect facial-landmakrs
 
+
+
+[https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/](https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/)
+
 ### Result 
 
 ![image Data  &amp;lt;BTS&amp;gt;](../.gitbook/assets/result_bts.png)
