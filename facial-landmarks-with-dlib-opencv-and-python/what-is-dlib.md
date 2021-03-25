@@ -46,11 +46,27 @@ _ensures_
 
 ### Download dlib\(for window\)
 
-* blank
-
+* CMake download , pip install CMake
+* 
 
 
 ## Imutils
+
+ A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and _**both**_ Python 2.7 and Python 3.
+
+reference : [https://github.com/jrosebr1/imutils](https://github.com/jrosebr1/imutils)
+
+> we use imutils to use webcam video, face\_utils ...etc
+
+
+
+### Download imutils\(for window\)
+
+* go to [https://github.com/jrosebr1/imutils](https://github.com/jrosebr1/imutils)
+* git clone code in same repository with your activities source code repos
+* pip install imutils
+
+
 
 
 
