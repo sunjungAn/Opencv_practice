@@ -28,8 +28,9 @@ description: >-
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:left">Histogram of Oriented Gradients and Object Detection</td>
+      <td style="text-align:center"><a href="https://app.gitbook.com/@dkstjswjd83/s/sunjungan/~/drafts/-MX0x-XyWb9s63hK7a6C/histogram-of-oriented-gradients-and-object-detection">Click</a>
+      </td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
