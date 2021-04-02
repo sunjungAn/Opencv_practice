@@ -8,5 +8,6 @@
   * [Additional](facial-landmarks-with-dlib-opencv-and-python/eye-blink-detection-opencv-dlib.md)
 * [Histogram of Oriented Gradients and Object Detection](histogram-of-oriented-gradients-and-object-detection/README.md)
   * [Untitled](histogram-of-oriented-gradients-and-object-detection/untitled.md)
-* [Ball Tracking with OpenCV](ball-tracking-with-opencv.md)
+* [Ball Tracking with OpenCV](ball-tracking-with-opencv/README.md)
+  * [Code Analysis](ball-tracking-with-opencv/code-analysis.md)
 
