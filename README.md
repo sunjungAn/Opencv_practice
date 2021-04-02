@@ -37,7 +37,8 @@ description: >-
       <td style="text-align:left">Ball Tracking with OpenCV</td>
       <td style="text-align:center"><a href="https://app.gitbook.com/@dkstjswjd83/s/sunjungan/~/drafts/-MXFG-VpEHGDROVllhVy/ball-tracking-with-opencv">Click</a>
       </td>
-      <td style="text-align:center">Click</td>
+      <td style="text-align:center"><a href="https://github.com/sunjungAn/Opencv_practice/blob/master/ball-tracking-with-opencv/ball_tracking.py">Click</a>
+      </td>
     </tr>
   </tbody>
 </table>
