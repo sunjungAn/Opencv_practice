@@ -11,5 +11,6 @@
 * [Ball Tracking with OpenCV](ball-tracking-with-opencv/README.md)
   * [Code Analysis](ball-tracking-with-opencv/code-analysis.md)
   * [Additional](ball-tracking-with-opencv/additional.md)
-* [Using mediapipe to detect pose]()
+* [Using mediapipe to detect pose](using-mediapipe-to-detect-pose.md)
+* [Pose detect with webcam](pose-detect-with-webcam.md)
 

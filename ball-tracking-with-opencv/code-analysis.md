@@ -39,9 +39,9 @@ thickness or size of the foreground object decreases or simply white region decr
 
 **It is just opposite of erosion.** erosion removes white noises, but it also shrinks our object. So we dilate it.
 
-![cv2. erosion\(\)](../.gitbook/assets/image%20%287%29.png)
+![cv2. erosion\(\)](../.gitbook/assets/image%20%288%29.png)
 
-![cv2.dilation\(\)](../.gitbook/assets/image%20%285%29.png)
+![cv2.dilation\(\)](../.gitbook/assets/image%20%286%29.png)
 
 erosion, dilation is use to remove any small noise
 

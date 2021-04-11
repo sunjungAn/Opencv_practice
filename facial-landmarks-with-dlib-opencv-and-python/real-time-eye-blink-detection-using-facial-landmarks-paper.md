@@ -12,7 +12,7 @@ SVM classifier detects eye blinks as a pattern of EAR values
 
 The eye aspect ratio \(EAR\) between height and width of the eye is computed.
 
-![reference : Real-Time Eye Blink Detection using Facial Landmarks](../.gitbook/assets/image.png)
+![reference : Real-Time Eye Blink Detection using Facial Landmarks](../.gitbook/assets/image%20%281%29%20%281%29.png)
 
 ![EAR function ](../.gitbook/assets/image%20%282%29.png)
 
@@ -27,7 +27,7 @@ plt.plot(arr)
 plt.show()
 ```
 
-![Graph of EAR Value Changes by my blink](../.gitbook/assets/image%20%284%29.png)
+![Graph of EAR Value Changes by my blink](../.gitbook/assets/image%20%284%29%20%281%29.png)
 
 we can know that if EAR is smaller than around 0.3~0.28, then blinking.  --&gt; EYE\_AR\_THRESH = 0.3
 

@@ -40,6 +40,11 @@ description: >-
       <td style="text-align:center"><a href="https://github.com/sunjungAn/Opencv_practice/blob/master/ball-tracking-with-opencv/ball_tracking.py">Click</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Pose detect with webcam</td>
+      <td style="text-align:center">Click</td>
+      <td style="text-align:center">Click</td>
+    </tr>
   </tbody>
 </table>
 
