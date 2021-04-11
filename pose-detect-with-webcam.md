@@ -13,11 +13,12 @@ description: Using medaipipe
 * Face meshup
 * Holistic 
 
-## 14.0.0 - 2042-10-06
+## 2021.4.5 - 2021-04-10
 
 ### Added
 
-* Introduced animals into the world, we believe they're going to be a neat addition.
+* Find left eye, right eye, left shoulder, right shoulder Position \(x ,y, z\)-point 
+* Calculate distance between left-right eyes and between left-right shoulder
 
 
 
